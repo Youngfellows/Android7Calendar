@@ -1,0 +1,5 @@
+rootProject.name='Android7Calendar'
+include ':app', ':chips', ':colorpicker', ':Calendar', ':common'
+include ':calendar_common'
+include ':datetimepicker'
+include ':timezonepicker'
